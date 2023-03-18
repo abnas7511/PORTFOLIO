@@ -40,7 +40,7 @@ h1
     font-size: larger;
     color: white;
     font-weight: normal;
-    width: 25%;
+    width: 550px;
     height: 400px;
     position: relative;
     bottom: 20px;
@@ -195,8 +195,8 @@ hr
   }
   .image1
   {
-    height: 50%;
-    width: 45%;
+    height: 300px;
+    width: 600px;
     position: relative;
     left: 350px;
     bottom: 490px;
