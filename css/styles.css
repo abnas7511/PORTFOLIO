@@ -1,0 +1,203 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+
+.top-container{
+    background-color: #DFD3C3;
+    position: relative;
+    padding-top: 100px;
+    height: 700px;
+}
+
+
+h1
+{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 90px;
+    bottom: 50px;
+
+}
+.firstname
+{
+    color: white;
+    margin-bottom: 0px;
+    position: relative;
+    left: 300px;
+}
+
+.secondname
+{
+    color: #8D7B68;
+    margin-top: 0px;
+    position: relative;
+    left: 180px;
+}
+.about
+{
+    font-family: 'Montserrat',sans-serif;
+    font-size: larger;
+    color: white;
+    font-weight: normal;
+    width: 550px;
+    height: 400px;
+    position: relative;
+    bottom: 20px;
+    left: 50px;
+}
+.work
+{
+    font-size: initial;
+    color: #867070;
+    position: absolute;
+    top: 620px;
+    left: 60px;
+}
+.portfolio
+{
+    font-size: initial;
+    color: black;
+    position: absolute;
+    top: 640px;
+    left: 60px;
+}
+.indicationsymbol
+{
+    width: 200px;
+    position: absolute;
+    left: 5px;
+    top: 100px;
+}
+h2
+{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3
+{
+    font-family: 'montserrat', sans-serif;
+    color: #11999E;
+}
+h4
+{
+    margin-bottom: 0px;
+}
+.middle-container
+{
+
+}
+.bottom-container{
+    text-align: center;
+    padding: 20px 0 20px 0;
+    background-color: #F8EDE3;
+}
+
+.contact-me
+{
+    padding-bottom: 80px;
+}
+.contactdes
+{
+    width:40%;
+    margin: 40px auto 60px auto;
+}
+
+.profile
+{   
+    width: 50%;
+    margin: 60px auto 60px auto;
+}
+.dpdescription
+{
+    color: #40514E;
+}
+
+hr
+    {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: #EAF6F6;
+        border-width: 5px;
+        width: 5%;
+    }
+
+.skill-row
+{
+ width: 50%;
+ margin: 100px auto 100px auto ;
+ text-align: left;
+ line-height: 2;
+}
+.web
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.Editing
+{
+ width: 25%;
+ float: right;
+ margin-right: 30px;
+}
+.footer-link
+{
+    color: #11999E;
+    margin: 10px 20px;
+    font-family: 'Montserrat',sans-serif;
+    text-decoration: none;
+}
+.footer-link:hover
+{
+    color: black;
+}
+.pro{
+     text-decoration: underline;
+}
+.btn {
+    background: #34d6d9;
+    background-image: -webkit-linear-gradient(top, #34d6d9, #005950);
+    background-image: -moz-linear-gradient(top, #34d6d9, #005950);
+    background-image: -ms-linear-gradient(top, #34d6d9, #005950);
+    background-image: -o-linear-gradient(top, #34d6d9, #005950);
+    background-image: linear-gradient(to bottom, #34d6d9, #005950);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    text-shadow: 0px 1px 3px #000000;
+    -webkit-box-shadow: 0px 1px 5px #000000;
+    -moz-box-shadow: 0px 1px 5px #000000;
+    box-shadow: 0px 1px 5px #000000;
+    font-family: 'Montserrat',sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 25px 10px 25px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: black;
+    text-decoration: none;
+  }
+  .copyrights
+  {
+    color: #D0B8A8;
+    font-size: 0.75rem;
+  }
+  .copy{
+    color: #11999E;
+    font-size: 0.75rem;
+    text-decoration: none;
+  }
+  .image1
+  {
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 350px;
+    bottom: 490px;
+  }
